@@ -19,12 +19,6 @@ The trend of the stock was considered only bullish or bearish (binary classifica
 
 CONCLUSIONS
 
-The model needs to be improvement, the metrics obtained were:
+Three models were generated using different indicators. 
 
-Accuracy .: 0.72
-
-Precision : 0.68
-
-Recall ...: 0.94
-
-F1 Score .: 0.70
+https://user-images.githubusercontent.com/78765404/233861914-1d3bc858-71a5-4248-8d10-aae462686354.png
