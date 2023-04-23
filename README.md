@@ -21,4 +21,4 @@ CONCLUSIONS
 
 Three models were generated using different indicators. 
 
-https://user-images.githubusercontent.com/78765404/233861914-1d3bc858-71a5-4248-8d10-aae462686354.png
+![![Table 1 - random forest metrics](https://user-images.githubusercontent.com/78765404/233862335-76d0d15e-a34b-4dd1-a4e1-60f3454323a7.png)]
