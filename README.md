@@ -19,6 +19,6 @@ The trend of the stock was considered only bullish or bearish (binary classifica
 
 CONCLUSIONS
 
-Three models were generated using different indicators. 
+Three models were generated using different indicators (Table 1). The best model selected was the model 1, using the following indicators: Selic, IBC-Br, Dolar, ICON and IBOV. 
 
 ![Table 1 - random forest metrics](https://user-images.githubusercontent.com/78765404/233862335-76d0d15e-a34b-4dd1-a4e1-60f3454323a7.png)
