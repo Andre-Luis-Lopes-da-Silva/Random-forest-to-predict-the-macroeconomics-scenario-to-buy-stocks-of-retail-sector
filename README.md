@@ -9,7 +9,7 @@ Therefore, the aim of this study was to establish a model using random forest to
 
 MACROECONOMIC INDICATORS AND RETAIL STOCKS
 
-Lojas Renner (LREN3) was chosen to be a representative stock of the retail sector of companies traded on B3 (brazilian stock exchange). The indices Broad National Consumer Price Index (IPCA), Special System for Settlement and Custody (selic), Central Bank Economic Activity Index (IBC-Br), Broad Retail Trade Confidence Index (ICOM), Future Expectations Index, Dollar (exchange), Consumer Stock Index (ICON) and Ibovespa Index (IBOV) were initially analysed by correlation. Data from during 10 years were used (2011-2021). 
+Lojas Renner (LREN3) was chosen to be a representative stock of the retail sector of companies traded on B3 (brazilian stock exchange). The indices Broad National Consumer Price Index (IPCA), Special System for Settlement and Custody (selic), Central Bank Economic Activity Index (IBC-Br), Broad Retail Trade Confidence Index (ICOM), Future Expectations Index, Dollar (exchange), Consumer Stock Index (ICON) and Ibovespa Index (IBOV) were initially analysed by correlation. Data from during 11 years were used (2011-2021). 
 
 Dataset Source: https://figshare.com/articles/dataset/Macroeconomic_indices_used_in_predictive_model_for_retail_sector_in_Brazil/22674859 
 
